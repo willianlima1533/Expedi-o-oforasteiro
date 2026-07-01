@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Expedicao Nexus</name>
+    <Placemark>
+      <name>registro_2026-07-01_02-43-39.txt</name>
+      <description><![CDATA[--- REGISTRO ANCESTRAL [2026-07-01_02-43-39] ---
+Durante a minha jornada imaginária pela trilha, eu encontrei uma variedade de paisagens e elementos naturais fascinantes. A trilha começou em uma flore...]]></description>
+      <Point>
+        <coordinates>-48.6602, -27.5739,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
