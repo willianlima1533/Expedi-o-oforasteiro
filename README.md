@@ -6,31 +6,22 @@ Este repositório é o **"Cérebro de Borda"** da minha expedição solo rumo à
 ---
 
 ### 📡 STATUS DA MISSÃO
-- **Localização:** [Sincronizando via GPS...]
+- **Localização:** São José, SC - Partida Iminente.
 - **Foco:** Coleta de dados de conectividade e esforço humano.
-- **Sistema Operacional:** [NEXUS V6] (Rodando em Termux/Python)
+- **Sistema:** [NEXUS V6] (Termux/Python - Coleta Automática)
 
 ---
 
-### 📊 ACESSO AOS DADOS (Vitrine de Conteúdo)
-*Clique nos links abaixo para acessar os ativos coletados:*
+### 🛰️ SOLICITE SEU REGISTRO DE CAMPO
+Transforme seu pedido em inteligência. Solicite fotos, vídeos ou dados técnicos de locais específicos da minha rota.
 
-| Ativo | Descrição | Status |
-| :--- | :--- | :--- |
-| **[Mapa de Rastro](link_do_seu_mapa)** | Posição em tempo real | 🟢 ATIVO |
-| **[Ativos de Rede](link_para_ativos.json)** | Coleta de telemetria | 🟢 ATIVO |
-| **[Diário de Bordo](link_para_fotos)** | Fotos e Registros Visuais | 🟡 EM EDIÇÃO |
+- **[👉 CLIQUE AQUI PARA SOLICITAR REGISTRO DE CAMPO](https://tally.so/r/RGga1J)**
+- **[💬 FALAR COM O EXPLORADOR NO WHATSAPP](https://wa.me/5548988399200)**
 
----
-
-### 💰 APOIE A EXPEDIÇÃO / SOLICITE COLETAS
-Transforme seus pedidos em dados. Financie a infraestrutura ou solicite uma coleta específica de campo.
-
-- **[Clique aqui para solicitar uma coleta de campo (Fotos/Vídeos/Dados)](LINK_DO_GOOGLE_FORM)**
-
-**Chave Pix (Apoio Direto):** `aa5dc4b7-39e2-4ca0-96fc-89d04bb8c249`
+### 💎 FINANCIE A MISSÃO
+Sua doação mantém o sistema NEXUS online 24/7.
+- **[👉 APOIAR VIA PIX NUBANK](https://nubank.com.br/cobrar/6wzvz/6a447abc-b55d-4ac4-9bce-614bf7822a0a)**
 
 ---
 
 > *"Não estou apenas atravessando fronteiras; estou mapeando o invisível."*
-
