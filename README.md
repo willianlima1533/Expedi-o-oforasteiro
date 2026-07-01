@@ -7,6 +7,7 @@ Este repositório é o **"Cérebro de Borda"** da minha expedição solo rumo à
 
 ### 📡 STATUS DA MISSÃO
 - **Localização:** São José, SC - Partida Iminente.
+- **[2026-07-01 00:32] Nova Coleta de Campo:** NOME_DO_ARQUIVO.jpg | [Solicitar acesso](https://tally.so/r/RGga1J)
 - **Foco:** Coleta de dados de conectividade e esforço humano.
 - **Sistema:** [NEXUS V6] (Termux/Python - Coleta Automática)
 
